@@ -1,2 +1,5 @@
 # [Video-games-sales-analysis](https://github.com/mizerablepi/Video-games-sales-analysis/blob/main/Project_Video_game_sales_analysis.ipynb)
 A quick analysis of openly available [dataset](https://www.kaggle.com/datasets/gregorut/videogamesales) on video game sales in the past few decades
+<hr>
+
+Video games have become very popular these days, each year they progress in technology and bring new genres to the industry. Video game industry is one of the biggest and fastest growing industry in the world, there is no shortage of games being released every year on all the different platforms. This project aims to do some basic data analysis on video game sales throughout the years, to find some interesting patterns and answer some basic questions about the data. The analysis will be based on [this](https://www.kaggle.com/gregorut/videogamesales) free dataset from kaggle. The dataset contains the sales for various games along with the platform, year. The sales are further classified on the basis of regions.<br>
